@@ -13,12 +13,13 @@ import './index.css'
 
 function App() {
   return (
-      <>
-      <Header />
-      <Options />
-      <Options />
-      <Options />
-      </>
+      <div>
+        <h1>Akshay Panchal's code</h1>
+        <Header />
+        <Options />
+        <Options />
+        <Options />
+      </div>
 
   );
 }
